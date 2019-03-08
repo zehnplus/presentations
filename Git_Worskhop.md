@@ -10,6 +10,8 @@ zehnplus.ch
 
 A version control system (VCS) widely used in open source projects.
 
+![fiiiiiles](https://bitbucket.org/zehnplus/presentations/raw/master/images/many_files_tree.png?raw=true)
+
 ### Uuh... what's a VCS?
 
 A tool that monitors changes in non-binary files*
@@ -35,7 +37,7 @@ If your company is spread all over the world, a decentralized CVS might make mor
 
 # The 3 states of insanity!
 
-![Git workflows](https://github.com/zehnplus/presentations/blob/master/images/trees.png?raw=true)
+![Git workflows](https://bitbucket.org/zehnplus/presentations/raw/master/images/trees.png?raw=true)
 
 When working with Git, we instruct it to check specific files for changes.
 These files are called `tracked` files. Anything else is `untracked`.
@@ -245,7 +247,7 @@ Date:   Fri Feb 17 13:10:01 2017 +0200
 
 ### Branches
 
-![branches](https://github.com/zehnplus/presentations/blob/master/images/branches.png?raw=true)
+![branches](https://bitbucket.org/zehnplus/presentations/raw/master/images/branches.png?raw=true)
 
 We use branches to develop features in parallel from each other, or isolated.
 
