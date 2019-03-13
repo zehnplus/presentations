@@ -12,6 +12,8 @@ A version control system (VCS) widely used in open source projects.
 
 ![fiiiiiles](https://bitbucket.org/zehnplus/presentations/raw/master/images/many_files_tree.png?raw=true)
 
+---
+
 ### Uuh... what's a VCS?
 
 A tool that monitors changes in non-binary files*
